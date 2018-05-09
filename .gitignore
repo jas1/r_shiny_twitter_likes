@@ -5,6 +5,10 @@
 # Session Data files
 .RData
 
+# twitter token
+twitter_token.rds
+generate_twitter_token.R
+
 # Example code in package build process
 *-Ex.R
 
